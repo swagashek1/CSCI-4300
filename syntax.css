@@ -2,6 +2,12 @@
 .tab {
     margin-left: 40px;
 }
+footer{
+    background-color: steelblue;
+    color: white;
+    text-align: center
+    
+}
 h1{
     color:steelblue;
     text-shadow: 2px 2px;
@@ -16,10 +22,11 @@ img{
     padding-left: 25px;
 }
 .header1{
-    border-bottom: 2px solid blue;
+    border-bottom: 2px solid steelblue;
     height: 130px;
   background-image: linear-gradient(to top, lightsteelblue, white);
   border-width: medium;
+  font-weight: bold;
   
 }    
 h4{
@@ -29,10 +36,11 @@ h4{
 }
 body{
     box-shadow: 0px 10px 10px black;
-    border: 1px solid blue;
-    border-width: medium;
+    border: 1px solid steelblue;
+    border-width: thick;
     width: 100%; 
 	max-width: 1024px; /* or whatever width you want */ 
     font-family: Arial, sans-serif;
+    margin: auto;
 }
  
