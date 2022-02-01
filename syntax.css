@@ -12,7 +12,7 @@ h1{
     color:steelblue;
     text-shadow: 2px 2px;
 }
-h{
+h2{
     font-weight: 400;
 }
 img{
@@ -28,14 +28,26 @@ img{
   border-width: medium;
   font-weight: bold;
   
+}
+a{
+    color: maroon;
+}
+a:hover{
+    color:steelblue;
 }    
+.default{
+    color: steelblue
+}
+
 h4{
-    right: -15px;
+    
     color : maroon;
     text-decoration: underline;
+    margin-bottom: 0px;
 }
 body{
-    box-shadow: 0px 10px 10px black;
+    /*box-shadow: 0px 10px 10px black;*/
+    box-shadow:0 0 50px 10px black;
     border: 1px solid steelblue;
     border-width: thick;
     width: 100%; 
